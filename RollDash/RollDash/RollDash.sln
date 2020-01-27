@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollDash", "RollDash.csproj", "{DEBAB4B7-2D61-87FE-6722-AF938A5AC86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollDash.Editor", "RollDash.Editor.csproj", "{C3593F81-7D2D-5145-6FD0-21C89503F23E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBAB4B7-2D61-87FE-6722-AF938A5AC86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBAB4B7-2D61-87FE-6722-AF938A5AC86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBAB4B7-2D61-87FE-6722-AF938A5AC86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBAB4B7-2D61-87FE-6722-AF938A5AC86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3593F81-7D2D-5145-6FD0-21C89503F23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3593F81-7D2D-5145-6FD0-21C89503F23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3593F81-7D2D-5145-6FD0-21C89503F23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3593F81-7D2D-5145-6FD0-21C89503F23E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,66 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\GETween.dll (this message is harmless)
+Loading C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\GETween.dll into Unity Child Domain
+Platform assembly: C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\GUIAnimatorFREE.dll (this message is harmless)
+Loading C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\GUIAnimatorFREE.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\MidukiKai\Desktop\作品\RollDash\RollDash_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'FaderCanvas') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Game') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 5.419433 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1c04 -> priority: 1 
+  Thread -> id: 3984 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at GameControl.GameStartButton () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+

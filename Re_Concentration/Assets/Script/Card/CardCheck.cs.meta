@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cafcec2f8c64a4a4eb0b6f16a2a5fbac
+timeCreated: 1500874291
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gManager: {instanceID: 0}
+  - effect_r: {fileID: 1282776715215710, guid: 912622dc846e33b4fb5be0688ba61658, type: 2}
+  - effect_b: {instanceID: 0}
+  - effect_g: {instanceID: 0}
+  - effect_p: {instanceID: 0}
+  - effect_y: {instanceID: 0}
+  - effect_h: {instanceID: 0}
+  - effect_j: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

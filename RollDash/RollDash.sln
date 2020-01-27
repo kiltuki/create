@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollDash", "Assembly-CSharp.csproj", "{69F06298-8F1A-4017-547F-65C33374CFFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollDash", "Assembly-CSharp-Editor.csproj", "{45A042B7-12D4-5B6D-E969-25669DC70D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F06298-8F1A-4017-547F-65C33374CFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F06298-8F1A-4017-547F-65C33374CFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F06298-8F1A-4017-547F-65C33374CFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F06298-8F1A-4017-547F-65C33374CFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A042B7-12D4-5B6D-E969-25669DC70D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A042B7-12D4-5B6D-E969-25669DC70D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A042B7-12D4-5B6D-E969-25669DC70D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A042B7-12D4-5B6D-E969-25669DC70D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

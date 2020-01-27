@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a84e9e4b77bd14e459c3351146f761e6
+timeCreated: 1499076443
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Card_r: {fileID: 1028675274497856, guid: d197cef1aab9db24f9145d894474220c, type: 2}
+  - Card_b: {fileID: 1661169298751792, guid: 5c51c7539e669e94d93b828a103c3eab, type: 2}
+  - Card_g: {fileID: 1144391459508626, guid: 90e382211f8631d43aa270018760abec, type: 2}
+  - Card_p: {fileID: 1015802285295526, guid: f21b31a9502b49d4598e490cace270b4, type: 2}
+  - Card_y: {fileID: 1118435804197752, guid: 2380aa2680533b64d90fe61e8d994843, type: 2}
+  - Card_h: {fileID: 1509404356086294, guid: 31e4fa9ca412a794ea2f33b2382a6468, type: 2}
+  - Card_j: {fileID: 1069734004950432, guid: 65640576f72cfa943b8656f90dc51dcd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
